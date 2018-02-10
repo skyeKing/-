@@ -6,3 +6,4 @@
 <p><b>多线程还是多进程的选择及区别 ：</b>http://blog.csdn.net/q_l_s/article/details/52608734</p>
 <p><b>PyCharm安装及使用 ：</b>https://www.jianshu.com/p/042324342bf4</p>
 <p><b>python并发之multiprocessing：</b>http://blog.csdn.net/dutsoft/article/details/54694798</p>
+<p><b>如何入门 Python 爬虫？：</b>https://www.zhihu.com/question/20899988/answer/24923424</p>
