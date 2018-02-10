@@ -7,3 +7,4 @@
 <p><b>PyCharm安装及使用 ：</b>https://www.jianshu.com/p/042324342bf4</p>
 <p><b>python并发之multiprocessing：</b>http://blog.csdn.net/dutsoft/article/details/54694798</p>
 <p><b>如何入门 Python 爬虫？：</b>https://www.zhihu.com/question/20899988/answer/24923424</p>
+<p><b>在线正则表达式测试：</b>http://tool.oschina.net/regex/</p>
