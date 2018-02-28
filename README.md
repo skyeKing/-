@@ -9,3 +9,4 @@
 <p><b>如何入门 Python 爬虫？：</b>https://www.zhihu.com/question/20899988/answer/24923424</p>
 <p><b>在线正则表达式测试：</b>http://tool.oschina.net/regex/</p>
 <p><b>Python之%s%d%f：</b>http://blog.csdn.net/qq_37482544/article/details/63720726</p>
+<p><b>pycharm快捷键及一些常用设置：</b>http://blog.csdn.net/wangtong95/article/details/51100872</p>
