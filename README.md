@@ -11,3 +11,5 @@
 <p><b>Python之%s%d%f：</b>http://blog.csdn.net/qq_37482544/article/details/63720726</p>
 <p><b>pycharm快捷键及一些常用设置：</b>http://blog.csdn.net/wangtong95/article/details/51100872</p>
 <p><b>如何从零开始在淘宝开好一家店？：</b>https://www.zhihu.com/question/19767717</p>
+<p><b>人工智能可以作曲吗？：</b>https://www.zhihu.com/question/22213757</p>
+<p><b>人工智能作曲 amper 官网：</b>https://www.ampermusic.com</p>
