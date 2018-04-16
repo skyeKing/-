@@ -13,3 +13,5 @@
 <p><b>如何从零开始在淘宝开好一家店？：</b>https://www.zhihu.com/question/19767717</p>
 <p><b>人工智能可以作曲吗？：</b>https://www.zhihu.com/question/22213757</p>
 <p><b>人工智能作曲 amper 官网：</b>https://www.ampermusic.com</p>
+
+<p><b>python selenium 官方帮助文档：</b>http://selenium-python.readthedocs.io/installation.html</p>
