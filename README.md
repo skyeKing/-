@@ -19,3 +19,4 @@
 <p><b>Houdini@Siggraph - Session3 - Intro To Procedural Modeling：</b>https://www.youtube.com/watch?v=1wIKUvxMp7k&t=49s</p>
 
 <p><b>Houdini - Intro to Modeling - Procedural Girder Tool Chap - 01：</b>https://www.youtube.com/watch?v=vgtUMytMiKE</p>
+<p><b>Houdini - Intro to Modeling - Procedural Girder Tool Chap - 02：</b>https://www.youtube.com/watch?v=9EOW1PnQ8iU</p>
