@@ -15,3 +15,5 @@
 <p><b>人工智能作曲 amper 官网：</b>https://www.ampermusic.com</p>
 
 <p><b>python selenium 官方帮助文档：</b>http://selenium-python.readthedocs.io/installation.html</p>
+
+<p><b>Houdini@Siggraph - Session3 - Intro To Procedural Modeling：</b>https://www.youtube.com/watch?v=1wIKUvxMp7k&t=49s</p>
