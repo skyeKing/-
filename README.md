@@ -21,3 +21,4 @@
 <p><b>Houdini - Intro to Modeling - Procedural Girder Tool Chap - 01：</b>https://www.youtube.com/watch?v=vgtUMytMiKE</p>
 <p><b>Houdini - Intro to Modeling - Procedural Girder Tool Chap - 02：</b>https://www.youtube.com/watch?v=9EOW1PnQ8iU</p>
 <p><b>speedtree8 trees lib store：</b>https://store.speedtree.com/speedtree-store/filters/compatibility/speedtree-cinema-8/page/3/</p>
+<p><b>网页版三维模型库：</b>https://sketchfab.com/<p>
