@@ -22,3 +22,6 @@
 <p><b>Houdini - Intro to Modeling - Procedural Girder Tool Chap - 02：</b>https://www.youtube.com/watch?v=9EOW1PnQ8iU</p>
 <p><b>speedtree8 trees lib store：</b>https://store.speedtree.com/speedtree-store/filters/compatibility/speedtree-cinema-8/page/3/</p>
 <p><b>网页版三维模型库：</b>https://sketchfab.com/<p>
+  
+<p><b>如何使用chrome自带的Javascript调试工具 ：</b>  http://zhangyongbluesky.blog.163.com/blog/static/1831941620113155739840/<p>
+<p><b>第1章 开启Threejs之旅(一) ：</b> http://www.hewebgl.com/article/getarticle/27  <p>
