@@ -29,3 +29,4 @@
 <p>~~<b>第1章 开启Threejs之旅(一) ：</b> http://www.hewebgl.com/article/getarticle/27  ~~</p>
 <p><b>three.js中文帮助文档：</b>http://techbrood.com/threejs/docs/</p>
 <p><b>three.js在线编写网站：</b>https://codepen.io/aglosson/pen/</p>
+<p><b>免费的三维角色 绑定 动画库：</b>https://renderpeople.com/free-3d-people/ref/3/</p>
