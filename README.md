@@ -33,3 +33,4 @@
 <p><b>免费的三维角色 绑定 动画库（怪物居多）：</b>https://gumroad.com/truongcgartist</p>
 <p><b>Maya布料蒙皮系统教学：https://www.cgcircuit.com/course/skinning-with-ncloth</p>
 <p><b>Maya布料蒙皮系统教学：https://www.bilibili.com/video/av10702259</p>
+<p><b>医用解剖三维模型（带右骨骼、肌肉、血管、内脏等）：http://www.cgmodel.com/model-106195.html</p>
