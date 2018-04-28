@@ -31,3 +31,4 @@
 <p><b>three.js在线编写网站：</b>https://codepen.io/aglosson/pen/</p>
 <p><b>免费的三维角色 绑定 动画库（公司员工模型为主）：</b>https://renderpeople.com/free-3d-people/ref/3/</p>
 <p><b>免费的三维角色 绑定 动画库（怪物居多）：</b>https://gumroad.com/truongcgartist</p>
+<p><b>Maya布料蒙皮系统教学：https://www.cgcircuit.com/course/skinning-with-ncloth</p>
