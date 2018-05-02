@@ -34,3 +34,4 @@
 <p><b>Maya布料蒙皮系统教学：https://www.cgcircuit.com/course/skinning-with-ncloth</p>
 <p><b>Maya布料蒙皮系统教学：https://www.bilibili.com/video/av10702259</p>
 <p><b>医用解剖三维模型（带右骨骼、肌肉、血管、内脏等）：http://www.cgmodel.com/model-106195.html</p>
+<p><b>runtime error r6025 pure virtual function call：https://tieba.baidu.com/p/3827417645?red_tag=1349737072</p>
