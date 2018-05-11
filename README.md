@@ -39,3 +39,6 @@
 <p><b>在线正则表达式测试工具：</b>http://tool.oschina.net/regex/</p>
 <p><b>the book of shader：</b>https://thebookofshaders.com/</p>
 <p><b>MAYA TUTORIAL Cartoon eyeLid rigging：</b>https://www.youtube.com/watch?v=-rtys3vFmso</p>
+
+<p><b>三维角色捏人软件makehuman 官网：</b>http://www.makehuman.org/</p>
+<p><b>三维角色捏人软件makehuman python：</b>https://bitbucket.org/MakeHuman/</p>
