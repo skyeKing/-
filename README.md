@@ -42,3 +42,4 @@
 
 <p><b>三维角色捏人软件makehuman 官网：</b>http://www.makehuman.org/</p>
 <p><b>三维角色捏人软件makehuman python：</b>https://bitbucket.org/MakeHuman/</p>
+<p><b>C++基础——用C++实例理解UML类图：</b>https://blog.csdn.net/lanchunhui/article/details/49557083</p>
