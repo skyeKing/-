@@ -44,3 +44,5 @@
 <p><b>三维角色捏人软件makehuman python：</b>https://bitbucket.org/MakeHuman/</p>
 <p><b>C++基础——用C++实例理解UML类图：</b>https://blog.csdn.net/lanchunhui/article/details/49557083</p>
 <p><b>高质量的三维图：</b>https://texturing.xyz/</p>
+<p><b>守望先锋各英雄大招语音整理：</b>http://bbs.ngacn.cc/read.php?tid=11527740&rand=135</p>
+<p><b>C++ 标准库：</b>http://www.runoob.com/cplusplus/cpp-standard-library.html</p>
