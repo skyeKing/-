@@ -46,3 +46,4 @@
 <p><b>高质量的三维图：</b>https://texturing.xyz/</p>
 <p><b>守望先锋各英雄大招语音整理：</b>http://bbs.ngacn.cc/read.php?tid=11527740&rand=135</p>
 <p><b>C++ 标准库：</b>http://www.runoob.com/cplusplus/cpp-standard-library.html</p>
+<p><b>c++中模板使用时候typename和class的区别：</b>https://blog.csdn.net/u011619422/article/details/44218473</p>
