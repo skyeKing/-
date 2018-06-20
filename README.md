@@ -47,3 +47,4 @@
 <p><b>守望先锋各英雄大招语音整理：</b>http://bbs.ngacn.cc/read.php?tid=11527740&rand=135</p>
 <p><b>C++ 标准库：</b>http://www.runoob.com/cplusplus/cpp-standard-library.html</p>
 <p><b>c++中模板使用时候typename和class的区别：</b>https://blog.csdn.net/u011619422/article/details/44218473</p>
+<p><b>lib和dll的关系？：</b>http://blog.163.com/zhengjiu_520/blog/static/3559830620093583438464/</p>
