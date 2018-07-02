@@ -51,3 +51,4 @@
 <p><b>lib和dll的关系？：</b>http://blog.163.com/zhengjiu_520/blog/static/3559830620093583438464/</p>
 <p><b>Microsoft API 和参考目录：</b>https://msdn.microsoft.com/zh-cn/library/</p>
 <p><b>在线的网页编辑工具：</b>https://www.wix.com/</p>
+<p><b>visual_c++外挂教程(较详细)：</b>https://blog.csdn.net/liujiayu2/article/details/45722503</p>
