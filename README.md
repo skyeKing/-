@@ -53,3 +53,4 @@
 <p><b>在线的网页编辑工具：</b>https://www.wix.com/</p>
 <p><b>visual_c++外挂教程(较详细)：</b>https://blog.csdn.net/liujiayu2/article/details/45722503</p>
 <p><b>在线免费的动补动作库 mixamo(较详细)：</b>https://www.mixamo.com/</p>
+<p><b>Python垃圾回收机制详解：</b>http://python.jobbole.com/87064/?utm_source=blog.jobbole.com&utm_medium=relatedPosts</p>
