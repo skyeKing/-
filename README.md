@@ -56,3 +56,4 @@
 <p><b>Python垃圾回收机制详解：</b>http://python.jobbole.com/87064/?utm_source=blog.jobbole.com&utm_medium=relatedPosts</p>
 
 <p><b>python的内存管理机制：</b>http://www.cnblogs.com/CBDoctor/p/3781078.html</p>
+<p><b>在线shading网页编辑器：</b>https://www.shadertoy.com/</p>
