@@ -58,3 +58,4 @@
 <p><b>python的内存管理机制：</b>http://www.cnblogs.com/CBDoctor/p/3781078.html</p>
 <p><b>在线shading网页编辑器：</b>https://www.shadertoy.com/</p>
 <p><b>Win7删除文件夹找不到该项目怎么删除？“找不到该项目”强删方法：</b>http://www.lotpc.com/dnjq/6717.html</p>
+<p><b>Beautiful Soup 4.4.0 文档：</b>http://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/</p>
