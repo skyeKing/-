@@ -62,3 +62,4 @@
 <p><b>中文计算机图形社区openGPU：</b>http://www.opengpu.org/</p>
 
 <p><b>webgl 库：</b>http://www.babylonjs.com/</p>
+<p><b>关于numpy一个比较详细的说明博客网页网址：</b>https://blog.csdn.net/a373595475/article/details/79580734</p>
