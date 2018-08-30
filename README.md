@@ -66,3 +66,4 @@
 
 <p><b>在线网页游戏编辑器：</b>https://www.buildbox.com/</p>
 <p><b>平面直角坐标系 围绕一个点旋转一定角度的目标坐标：</b>https://blog.csdn.net/u013270347/article/details/80594685</p>
+<p><b>线性代数视频教程：</b>https://www.wanmen.org/courses/586d23485f07127674135d4d/lectures/586d23535f07127674159125</p>
