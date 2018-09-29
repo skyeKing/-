@@ -71,3 +71,4 @@
 <p><b>第1篇 Qt5基础（一）Qt开发环境的搭建和hello world：</b>http://www.qter.org/portal.php?mod=view&aid=25&page=2</p>
 <p><b>关于阳澄湖大闸蟹，你所知道的不知道的都在这里！</b>http://daxie.gxmlyjy.com/</p>
 <p><b>Python生成pyd文件：</b>http://yshblog.com/blog/117</p>
+<p><b>P站 （花瓣抄袭的网站）：</b>https://www.pinterest.com/</p>
