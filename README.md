@@ -70,3 +70,4 @@
 <p><b>Qt入门之基础篇 ( 一 ) ：Qt4及Qt5的下载与安装：</b>https://www.cnblogs.com/lxmwb/p/6352220.html</p>
 <p><b>第1篇 Qt5基础（一）Qt开发环境的搭建和hello world：</b>http://www.qter.org/portal.php?mod=view&aid=25&page=2</p>
 <p><b>关于阳澄湖大闸蟹，你所知道的不知道的都在这里！</b>http://daxie.gxmlyjy.com/</p>
+<p><b>Python生成pyd文件：</b>http://yshblog.com/blog/117</p>
