@@ -72,3 +72,4 @@
 <p><b>关于阳澄湖大闸蟹，你所知道的不知道的都在这里！</b>http://daxie.gxmlyjy.com/</p>
 <p><b>Python生成pyd文件：</b>http://yshblog.com/blog/117</p>
 <p><b>P站 （花瓣抄袭的网站）：</b>https://www.pinterest.com/</p>
+<p><b>皮克斯USD文档：https://graphics.pixar.com/usd/docs/index.html</p>
