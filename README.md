@@ -73,3 +73,4 @@
 <p><b>Python生成pyd文件：</b>http://yshblog.com/blog/117</p>
 <p><b>P站 （花瓣抄袭的网站）：</b>https://www.pinterest.com/</p>
 <p><b>皮克斯USD文档：https://graphics.pixar.com/usd/docs/index.html</p>
+<p><b>原画教程网站：https://www.evanartweb.com/</p>
