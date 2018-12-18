@@ -76,3 +76,4 @@
 <p><b>原画教程网站：</b>https://www.evanartweb.com/</p>
 <p><b>日本节点更新warframe很快 VPN网站：</b>https://www.f-secure.com/en/web/home_global/freedome</p>
 <p><b>pyside 文档：</b>http://srinikom.github.io/pyside-docs/</p>
+<p><b>虚幻4 角色动画蓝图制作：</b>https://www.youtube.com/watch?v=YVC-DL9Ibf0</p>
