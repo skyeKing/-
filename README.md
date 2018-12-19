@@ -77,3 +77,4 @@
 <p><b>日本节点更新warframe很快 VPN网站：</b>https://www.f-secure.com/en/web/home_global/freedome</p>
 <p><b>pyside 文档：</b>http://srinikom.github.io/pyside-docs/</p>
 <p><b>虚幻4 角色动画蓝图制作：</b>https://www.youtube.com/watch?v=YVC-DL9Ibf0</p>
+<p><b>虚幻4 角色动画蓝图《堡垒之夜》举例：</b>https://www.youtube.com/watch?v=YjQRBHvltOk</p>
