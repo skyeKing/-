@@ -80,3 +80,4 @@
 <p><b>虚幻4 角色动画蓝图《堡垒之夜》举例：</b>https://www.youtube.com/watch?v=YjQRBHvltOk</p>
 <p><b>虚幻4 按钮跟门互动蓝图制作教程：</b>https://www.youtube.com/watch?v=jvte8lNyNJ0</p>
 <p><b>虚幻4 血条教程：</b>https://www.youtube.com/watch?v=ra-G2qEWbuQ</p>
+<p><b>虚幻4 AI进阶教程：</b>https://www.youtube.com/watch?v=NZZtMNdJk5o</p>
