@@ -84,3 +84,4 @@
 <p><b>虚幻4 交互式角色创建教程：</b>https://www.youtube.com/watch?v=ZIpFqqkrNwY</p>
 <p><b>python 比较全面的教程网站：</b>https://pythonprogramming.net</p>
 <p><b>ue4 ik system blueprint toturial：</b>https://www.youtube.com/watch?v=rBPW7fVxEDA</p>
+<p><b>自动抠图的网址（需翻墙）：</b>https://www.remove.bg/</p>
