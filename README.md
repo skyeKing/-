@@ -90,4 +90,4 @@
 <p><b>休闲娱乐：</b>http://www.newlynet.com/7471.html</p>
 <p><b>可以找教程的外国的网站：</b>https://www.udemy.com/</p>
 
-<p><b>可以找教程的外国的网站：</b>https://zhuanlan.zhihu.com/p/50141261</p>
+<p><b>Motion Matching(引擎实时动画原理) 的介绍：</b>https://zhuanlan.zhihu.com/p/50141261</p>
