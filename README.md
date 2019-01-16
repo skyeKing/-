@@ -94,3 +94,5 @@
 <p><b>UE4 - Tutorial - Interactive Foliage!</b>https://www.youtube.com/watch?v=uTCpOOOBfCQ</p>
 <p><b>Selection Outlines Without Post-Process Material - [UE4 Tutorial]</b>https://www.youtube.com/watch?v=BWoVkQjYncY</p>
 <p><b>Dynamic/Simulated Ponytail (Bone Chain) Tutorial - Unreal Engine 4</b>https://www.youtube.com/watch?v=Jq0pB2Um_pA</p>
+
+<p><b>Physics interactable foliage overview WIP</b>https://www.youtube.com/watch?v=U7IRbHvcIxY&list=PLT4SeajOa6mbF_zINb7qE5yc7-g1FaqaP</p>
