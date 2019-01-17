@@ -96,3 +96,4 @@
 <p><b>Dynamic/Simulated Ponytail (Bone Chain) Tutorial - Unreal Engine 4</b>https://www.youtube.com/watch?v=Jq0pB2Um_pA</p>
 <p><b>Physics interactable foliage overview WIP</b>https://www.youtube.com/watch?v=U7IRbHvcIxY&list=PLT4SeajOa6mbF_zINb7qE5yc7-g1FaqaP</p>
 <p><b>Unreal Engine 4 - [PUBG] 3D Live Widget</b>https://www.youtube.com/watch?v=mSDgMmaddJw</p>
+<p><b>UE4 - Interact with Foliage at Run-time (Cut down trees, remove foliage, etc...)</b>https://www.youtube.com/watch?v=F_RS1vlBYXI</p>
