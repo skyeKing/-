@@ -98,3 +98,4 @@
 <p><b>Unreal Engine 4 - [PUBG] 3D Live Widget</b>https://www.youtube.com/watch?v=mSDgMmaddJw</p>
 <p><b>UE4 - Interact with Foliage at Run-time (Cut down trees, remove foliage, etc...)</b>https://www.youtube.com/watch?v=F_RS1vlBYXI</p>
 <p><b>Unreal Engine 4 - 3D Item Preview Widget - Part 1</b>https://www.youtube.com/watch?v=2ZiNFXSH4ZU</p>
+<p><b>UE4结合WorldMachine_制作“你的名字”动画场景制作解析</b>http://blog.sina.com.cn/s/blog_6a47f50f0102xiy1.html</p>
