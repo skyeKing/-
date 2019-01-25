@@ -101,3 +101,4 @@
 <p><b>UE4结合WorldMachine_制作“你的名字”动画场景制作解析</b>http://blog.sina.com.cn/s/blog_6a47f50f0102xiy1.html</p>
 <p><b>Creating Grass with Color Variation in UE4</b>https://www.youtube.com/watch?v=7NeUiHhHTjM</p>
 <p><b>World Machine - Texturing tutorial</b>https://www.youtube.com/watch?v=5YwP0uVz44k</p>
+<p><b>带你用WorldMachine+C4D做出装逼效果地形！（1）</b>https://www.btbat.com/3128.html</p>
