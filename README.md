@@ -103,3 +103,4 @@
 <p><b>World Machine - Texturing tutorial</b>https://www.youtube.com/watch?v=5YwP0uVz44k</p>
 <p><b>带你用WorldMachine+C4D做出装逼效果地形！（1）</b>https://www.btbat.com/3128.html</p>
 <p><b>Unreal Engine 4 Gerstner Waves Livestream</b>https://www.youtube.com/watch?v=_y7Z0MbGOMw</p>
+<p><b>Mery Project</b>https://www.meryproject.com/</p>
