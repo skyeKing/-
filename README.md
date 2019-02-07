@@ -109,3 +109,4 @@
 <p><b>mo te</b>https://www.youtube.com/watch?v=NHRq-8ek1NI</p>
 <p><b>Drag & Drop with UMG | 01 | Live Training | Unreal Engine</b>https://www.youtube.com/watch?v=wyC5vl64V9k</p>
 <p><b>HTF do I? Drag and Drop: The Basics ( UE4 )</b>https://www.youtube.com/watch?v=WfF3fb0WaoY</p>
+<p><b>UE4 IK System setup </b>https://docs.unrealengine.com/en-us/Engine/Animation/IKSetups</p>
