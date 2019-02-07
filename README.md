@@ -110,3 +110,4 @@
 <p><b>Drag & Drop with UMG | 01 | Live Training | Unreal Engine</b>https://www.youtube.com/watch?v=wyC5vl64V9k</p>
 <p><b>HTF do I? Drag and Drop: The Basics ( UE4 )</b>https://www.youtube.com/watch?v=WfF3fb0WaoY</p>
 <p><b>UE4 IK System setup </b>https://docs.unrealengine.com/en-us/Engine/Animation/IKSetups</p>
+<p><b>UE4 Dynamic Holographic Map and download </b>https://www.youtube.com/watch?v=RxL1B6NUG18</p>
