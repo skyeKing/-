@@ -112,3 +112,4 @@
 <p><b>UE4 IK System setup </b>https://docs.unrealengine.com/en-us/Engine/Animation/IKSetups</p>
 <p><b>UE4 Dynamic Holographic Map and download </b>https://www.youtube.com/watch?v=RxL1B6NUG18</p>
 <p><b>3D Character capture model </b>http://ten24.info/</p>
+<p><b>3D Character capture model </b>http://www.pi3dscan.com/</p>
