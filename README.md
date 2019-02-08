@@ -114,3 +114,4 @@
 <p><b>3D Character capture model </b>http://ten24.info/</p>
 <p><b>3D Character capture model </b>http://www.pi3dscan.com/</p>
 <p><b>Welcome to Wrap 3 Documentation!</b>https://www.russian3dscanner.com/docs/Wrap3/</p>
+<p><b>UE4 Character Look At Tutorial</b>https://www.youtube.com/watch?v=lO31ivCC1KU</p>
