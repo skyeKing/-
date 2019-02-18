@@ -117,3 +117,4 @@
 <p><b>UE4 Character Look At Tutorial</b>https://www.youtube.com/watch?v=lO31ivCC1KU</p>
 <p><b>未来科幻城市建筑模型</b>https://kitbash3d.com/</p>
 <p><b>The Fundamentals of Landscapes - Art Camp 3 Preview with Noah Bradley</b>https://www.youtube.com/watch?v=xWMMo1v594Y</p>
+<p><b>How I Make A Landscape: Concept Art Process</b>https://www.youtube.com/watch?v=e8OPmP75HJU</p>
