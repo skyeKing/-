@@ -121,3 +121,4 @@
 <p><b>Houdini Procedural Rock Modeling - Part 1</b>https://www.youtube.com/watch?v=1Jcn-LMOfJg</p>
 <p><b>Beginning AI In Unreal Engine Using Blueprints - Common Concepts</b>https://www.youtube.com/watch?v=4jpACNWcvV8</p>
 <p><b>how-do-i-check-if-a-variable-exists</b>https://stackoverflow.com/questions/843277/how-do-i-check-if-a-variable-exists</p>
+<p><b>RAY TRACING and other RENDERING METHODS</b>https://www.youtube.com/watch?v=LAsnQoBUG4Q</p>
