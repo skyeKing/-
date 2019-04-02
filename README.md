@@ -122,3 +122,4 @@
 <p><b>Beginning AI In Unreal Engine Using Blueprints - Common Concepts</b>https://www.youtube.com/watch?v=4jpACNWcvV8</p>
 <p><b>how-do-i-check-if-a-variable-exists</b>https://stackoverflow.com/questions/843277/how-do-i-check-if-a-variable-exists</p>
 <p><b>RAY TRACING and other RENDERING METHODS</b>https://www.youtube.com/watch?v=LAsnQoBUG4Q</p>
+<p><b>ZBrush 2018 Hard Surface Designing</b>https://www.youtube.com/watch?v=kUxMhTCRBM0&list=PLklk5VvcgwJB5E7R2OkBDJPlLAcKhVQ07</p>
