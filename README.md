@@ -125,3 +125,4 @@
 <p><b>ZBrush 2018 Hard Surface Designing</b>https://www.youtube.com/watch?v=kUxMhTCRBM0&list=PLklk5VvcgwJB5E7R2OkBDJPlLAcKhVQ07</p>
 <p><b>FPS游戏的方框透视 + 自瞄原理</b>https://www.allegorithmic.com/products/substance-alchemist</p>
 <p><b>warframe原始素材链接</b>https://www.warframe.com/steamworkshop/help/index.php?page=content-files-and-examples</p>
+<p><b>Zbrush 2018 speed sculpt</b>https://www.youtube.com/watch?v=z-CpbGB7rOk</p>
