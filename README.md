@@ -126,3 +126,4 @@
 <p><b>FPS游戏的方框透视 + 自瞄原理</b>https://www.allegorithmic.com/products/substance-alchemist</p>
 <p><b>warframe原始素材链接</b>https://www.warframe.com/steamworkshop/help/index.php?page=content-files-and-examples</p>
 <p><b>Zbrush 2018 speed sculpt</b>https://www.youtube.com/watch?v=z-CpbGB7rOk</p>
+<p><b>HOW TO DRAW BODY SHAPES: 30 Tutorials For Beginners</b>https://www.boredart.com/2018/06/how-to-draw-body-shapes-tutorials-for-beginners.html</p>
