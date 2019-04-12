@@ -127,3 +127,5 @@
 <p><b>warframe原始素材链接</b>https://www.warframe.com/steamworkshop/help/index.php?page=content-files-and-examples</p>
 <p><b>Zbrush 2018 speed sculpt</b>https://www.youtube.com/watch?v=z-CpbGB7rOk</p>
 <p><b>HOW TO DRAW BODY SHAPES: 30 Tutorials For Beginners</b>https://www.boredart.com/2018/06/how-to-draw-body-shapes-tutorials-for-beginners.html</p>
+<p><b>Katana Developer Guide</b>https://learn.foundry.com/katana/3.1/dev-guide/index.html</p>
+<p><b>Redshift for katana</b>https://docs.redshift3d.com/display/RSDOCS/Welcome+to+Redshift?product=katana</p>
