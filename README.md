@@ -129,3 +129,4 @@
 <p><b>HOW TO DRAW BODY SHAPES: 30 Tutorials For Beginners</b>https://www.boredart.com/2018/06/how-to-draw-body-shapes-tutorials-for-beginners.html</p>
 <p><b>Katana Developer Guide</b>https://learn.foundry.com/katana/3.1/dev-guide/index.html</p>
 <p><b>Redshift for katana</b>https://docs.redshift3d.com/display/RSDOCS/Welcome+to+Redshift?product=katana</p>
+<p><b>Snow Deforming Landscape Tutorial - UE4</b>https://www.youtube.com/watch?v=pPKPSV5fiDc</p>
