@@ -131,3 +131,4 @@
 <p><b>Redshift for katana</b>https://docs.redshift3d.com/display/RSDOCS/Welcome+to+Redshift?product=katana</p>
 <p><b>Snow Deforming Landscape Tutorial - UE4</b>https://www.youtube.com/watch?v=pPKPSV5fiDc</p>
 <p><b>Unreal Engine 4 喵喵教程 - 编写自动地形材质</b>https://www.youtube.com/watch?v=RpKY9FRgak8</p>
+<p><b>虚幻4 Python API/UE4 Python API</b>https://api.unrealengine.com/INT/PythonAPI/</p>
