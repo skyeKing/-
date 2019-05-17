@@ -134,3 +134,5 @@
 <p><b>虚幻4 Python API/UE4 Python API</b>https://api.unrealengine.com/INT/PythonAPI/</p>
 <p><b>UE 4.21 - How To Use Python Inside Unreal Engine 4</b>https://www.youtube.com/watch?v=RwWgC2xqk48&list=PLBLmKCAjA25Br8cOVzUroqi_Nwipg-IdP</p>
 <p><b>Procedural Foliage Actor | Live Training | Unreal Engine</b>https://www.youtube.com/watch?v=3ispyNxpRyg</p>
+<p><b>守望先锋OVER WATCH 地图工坊使用指南</b>http://ow.blizzard.cn/article/news/1307?blzcmp=app</p>
+
