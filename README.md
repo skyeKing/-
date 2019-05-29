@@ -138,3 +138,4 @@
 <p><b>一起来捉妖 网页版捉妖雷达</b>https://radar.vitechliu.com/</p>
 <p><b>从网上找的 visual studio 的各个版本下载地址,vs2010/vs2012/vs2013带注册码</b>https://yq.aliyun.com/articles/91172</p>
 <p>vs2012 最新版本为update5，可以在2012中直接下载。工具-->扩展和更新-->更新</p>
+<p><b>三角函数诱导公式、万能公式、和差化积公式、倍角公式等公式总结及其推导</b>https://wenku.baidu.com/view/c22c05ffa6c30c2258019e35.html?rec_flag=default&sxts=1559117957019</p>
