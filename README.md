@@ -145,3 +145,4 @@
 <p><b> 如何将py文件编译成pyd使其能在Maya环境下运行</b>https://blog.csdn.net/lulongfei172006/article/details/87436906</p>
 <p><b> 网页GPU引擎</b>http://lighttracer.org</p>
 <p><b> 地形制作软件gaea</b>https://quadspinner.com/gaea/#home</p>
+<p><b> Node.js 安装配置</b>https://www.runoob.com/nodejs/nodejs-install-setup.html</p>
