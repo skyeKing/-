@@ -147,3 +147,4 @@
 <p><b> 地形制作软件gaea</b>https://quadspinner.com/gaea/#home</p>
 <p><b> Node.js 安装配置</b>https://www.runoob.com/nodejs/nodejs-install-setup.html</p>
 <p><b> Quadspinner Gaea Export to Unreal</b>https://www.youtube.com/watch?v=bu7eQmOYRt4</p>
+<p><b> React安装配置（腾讯云开发者平台）</b>https://www.runoob.com/react/react-install.html</p>
