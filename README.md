@@ -149,3 +149,4 @@
 <p><b> Quadspinner Gaea Export to Unreal</b>https://www.youtube.com/watch?v=bu7eQmOYRt4</p>
 <p><b> React安装配置（腾讯云开发者平台）</b>https://www.runoob.com/react/react-install.html</p>
 <p><b> unity & live2d </b>https://www.youtube.com/watch?v=MLfQXhfNSXU</p>
+<p><b>'Cannot connect to proxy.' [WinError 10061]</b>https://blog.csdn.net/fuzhuolin/article/details/86424457</p>
