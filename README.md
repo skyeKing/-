@@ -150,3 +150,5 @@
 <p><b> React安装配置（腾讯云开发者平台）</b>https://www.runoob.com/react/react-install.html</p>
 <p><b> unity & live2d </b>https://www.youtube.com/watch?v=MLfQXhfNSXU</p>
 <p><b>'Cannot connect to proxy.' [WinError 10061]</b>https://blog.csdn.net/fuzhuolin/article/details/86424457</p>
+<p><b>AL_USDMaya</b>https://github.com/AnimalLogic/AL_USDMaya</p>
+<p><b>python开源捏人插件</b>http://www.makehumancommunity.org/wiki/Releases:120a3</p>
