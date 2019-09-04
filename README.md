@@ -154,3 +154,4 @@
 <p><b>python开源捏人插件</b>http://www.makehumancommunity.org/wiki/Releases:120a3</p>
 <p><b>网页端数学函数绘图</b>http://www.fooplot.com/#W3sidHlwZSI6MCwiZXEiOiJzaW4oeCkiLCJjb2xvciI6IiMwMDAwMDAifSx7InR5cGUiOjAsImVxIjoiY29zKHgpIiwiY29sb3IiOiIjMDAwMDAwIn0seyJ0eXBlIjoxMDAwLCJ3aW5kb3ciOlsiLTUuMTk5OTk5OTk5OTk5OTk0IiwiNS4xOTk5OTk5OTk5OTk5OTQiLCItMy4xOTk5OTk5OTk5OTk5OTciLCIzLjE5OTk5OTk5OTk5OTk5NyJdfV0-</p>
 <p><b>Houdini house generation || Tutorial</b>https://www.youtube.com/watch?v=lX2avHp-zY0</p>
+<p><b>snownlp 中文语法分析</b>https://blog.csdn.net/weixin_34050005/article/details/90587575</p>
