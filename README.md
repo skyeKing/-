@@ -157,3 +157,4 @@
 <p><b>snownlp 中文语法分析</b>https://blog.csdn.net/weixin_34050005/article/details/90587575</p>
 <p><b>houdini VEX教程</b>http://www.tokeru.com/cgwiki/?title=HoudiniVex</p>
 <p><b>houdini VEX教程</b>https://github.com/jtomori/vex_tutorial</p>
+<p><b>houdini VEX教程</b>https://www.bilibili.com/video/av20390906/?spm_id_from=333.788.videocard.12</p>
