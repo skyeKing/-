@@ -160,3 +160,4 @@
 <p><b>houdini VEX教程</b>https://www.bilibili.com/video/av20390906/?spm_id_from=333.788.videocard.12</p>
 <p><b>houdini插件官方下载地址</b>https://www.sidefx.com/products/houdini-engine/</p>
 <p><b>三维游戏引擎编程 理解四元数</b>https://www.3dgep.com/understanding-quaternions/</p>
+<p><b>python中的cls到底指的是什么，与self有什么区别?</b>https://blog.csdn.net/sinat_33718563/article/details/81298785</p>
