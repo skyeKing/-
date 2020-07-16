@@ -165,3 +165,4 @@
 <p><b>pyqt5学习笔记：自定义参数 （给信号传入参数）</b>https://blog.csdn.net/kobeyu652453/article/details/106923490/</p>
 <p><b>FFMPEG：高品质的GIF动画？</b>https://cloud.tencent.com/developer/ask/184052</p>
 <p><b>高质量图片序列转gif工具</b>https://gif.ski/</p>
+<p><b>python实战开发]软件许可证License文件生成</b>https://zhuanlan.zhihu.com/p/155951909</p>
